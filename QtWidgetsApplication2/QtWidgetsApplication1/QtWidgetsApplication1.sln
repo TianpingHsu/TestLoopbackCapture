@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtWidgetsApplication1", "QtWidgetsApplication1.vcxproj", "{E32A3C5E-1400-44EF-ADA6-86D326036EF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopbackCapture", "..\LoopbackCapture\LoopbackCapture.vcxproj", "{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E32A3C5E-1400-44EF-ADA6-86D326036EF6}.Debug|x64.ActiveCfg = Debug|x64
+		{E32A3C5E-1400-44EF-ADA6-86D326036EF6}.Debug|x64.Build.0 = Debug|x64
+		{E32A3C5E-1400-44EF-ADA6-86D326036EF6}.Debug|x86.ActiveCfg = Debug|x64
+		{E32A3C5E-1400-44EF-ADA6-86D326036EF6}.Release|x64.ActiveCfg = Release|x64
+		{E32A3C5E-1400-44EF-ADA6-86D326036EF6}.Release|x64.Build.0 = Release|x64
+		{E32A3C5E-1400-44EF-ADA6-86D326036EF6}.Release|x86.ActiveCfg = Release|x64
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Debug|x64.ActiveCfg = Debug|x64
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Debug|x64.Build.0 = Debug|x64
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Debug|x86.Build.0 = Debug|Win32
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Release|x64.ActiveCfg = Release|x64
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Release|x64.Build.0 = Release|x64
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Release|x86.ActiveCfg = Release|Win32
+		{225F34B6-6D4F-4ED8-9BCE-CF2DB55043CF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE17F135-F701-4C50-8C2D-E9C9A27B69AC}
+	EndGlobalSection
+EndGlobal
